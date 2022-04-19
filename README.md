@@ -11,5 +11,3 @@ Linkedin: https://bd.linkedin.com/in/obyed-ullah-khan
 Languages and Tools:
 
 
-
-![download](https://user-images.githubusercontent.com/61733348/163922427-acb9beb2-c686-4e9a-a6e0-84c2feec8b0c.jpg)
