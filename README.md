@@ -10,7 +10,6 @@ Linkedin: https://bd.linkedin.com/in/obyed-ullah-khan
 
 Languages and Tools:
 
-<!---
-ouks-bd/ouks-bd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![download](https://user-images.githubusercontent.com/61733348/163922427-acb9beb2-c686-4e9a-a6e0-84c2feec8b0c.jpg)
