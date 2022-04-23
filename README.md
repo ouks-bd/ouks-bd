@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obyed Ullah Khan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Appium. 
-- 💞️ I’m looking to collaborate on dvanced techniques and patterns.
+- 💞️ I’m looking to collaborate on advanced techniques and patterns.
 - 🥅 2022 Goals: Collaborate with the least favored and most despised people in society.
 
 Connect with me:
