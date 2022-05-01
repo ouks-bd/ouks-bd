@@ -8,7 +8,7 @@ Connect with me:
 
 Linkedin: https://bd.linkedin.com/in/obyed-ullah-khan
 
-Protfolio website : https://ouks-bd.github.io/ouks.github.io/ 
+Protfolio website : https://ouks-bd.github.io/obyed/
 
 
 <h3 align="left">Languages and Tools:</h3>
