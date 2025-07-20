@@ -2,7 +2,7 @@
 - 👀 I’m interested ...
 - 🌱 I’m currently learning Appium. 
 - 💞️ I’m looking to collaborate on advanced techniques and patterns.
-- 🥅 2024 Goals: Stay updated with new technology and consent to my new master's program in the USA.
+- 🥅 2025 Goals: Stay updated with new technology and consent to my new master's program in the USA.
 
 Connect with me:
 
